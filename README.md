@@ -1,0 +1,3 @@
+CTF Grader
+=========
+This program was written to monitor a group of servers for the Capture the Flag competition at Christopher Newport University for uptime. It checks the server date and time, if a HTTP server is running, and that the correct versions of HTTP and PHP are running. It stores this data in a CSV and in a MSSQL database. It utilizes multiple open source libraries. It gets the data on which servers to check from a CSV named servers.csv. On the server side, it gets the PHP script located at the root (index.php). This script simply displays the system time, and the system's computer name.

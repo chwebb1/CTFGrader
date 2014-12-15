@@ -1,0 +1,1 @@
+ServerName,ServerAddress,Expected Web Server,Expected Powered ByCWS1,thewebbster.info,[Apache/2.4.7 (Ubuntu)],[PHP/5.5.9-1ubuntu4.4]WIN2008SERV,192.168.0.3,[Microsoft-IIS/7.5],"[ASP.NET, PHP/5.6.0]"WIN2012SERV,192.168.0.4,[Microsoft-IIS/8.0],"[ASP.NET, PHP/5.6.0]"
